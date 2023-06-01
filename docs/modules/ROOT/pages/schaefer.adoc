@@ -1,7 +1,6 @@
 [%unstyled]
 |===
-|image:../images/ssi-schaefer.svg[Tiger,200,200,float="left",align="left"]
-
+|image:ROOT:ssi-schaefer.svg[Carbonara]
 |Documentation Guidelines
 |About
 
