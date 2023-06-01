@@ -1,4 +1,4 @@
-include::./consul.adoc[]
-include::./schaefer.adoc[]
-include::./traefic.adoc[]
+include::partial$consul.adoc[]
+include::partial$schaefer.adoc[]
+include::partial$traefic.adoc[]
 
