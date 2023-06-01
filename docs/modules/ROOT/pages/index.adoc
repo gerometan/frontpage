@@ -1,7 +1,3 @@
-= Module B
-
-== Instructions on Module B
-
 include::./consul.adoc[]
 include::./schaefer.adoc[]
 include::./traefic.adoc[]
