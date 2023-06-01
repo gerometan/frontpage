@@ -1,6 +1,6 @@
 [%unstyled]
 |===
-|image:../../images/traefik-proxy-logo.svg[Tiger,200,200,float="left",align="left"]
+|image:../images/traefik-proxy-logo.svg[Tiger,200,200,float="left",align="left"]
 
 |Proxy Server Application
 |Install
