@@ -1,7 +1,7 @@
 [%unstyled]
 |===
-|image:ROOT:ssi-schaefer.svg[Carbonara]
-|Documentation Guidelines
+|image:ROOT:ssi-schaefer.svg[Schaefer]
+|xref:howto:howto.adoc[ReadMe] 
 |About
 
 |===
