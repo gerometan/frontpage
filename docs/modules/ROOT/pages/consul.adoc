@@ -1,6 +1,6 @@
 [%unstyled]
 |===
-|image:ROOT:consul.jpg[Carbonara]
+|image:ROOT:consul.svg[Carbonara]
 
 |Service Registry Application
 |Install
