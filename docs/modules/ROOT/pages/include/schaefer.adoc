@@ -1,0 +1,9 @@
+[%unstyled]
+|===
+|image:../images/ssi-schaefer.svg[Tiger,200,200,float="left",align="left"]
+
+|Documentation Guidelines
+|About
+
+|===
+
