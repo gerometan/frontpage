@@ -2,7 +2,7 @@
 
 == Instructions on Module B
 
-include::./include/consul.adoc[]
-include::./include/schaefer.adoc[]
-include::./include/traefic.adoc[]
+include::./consul.adoc[]
+include::./schaefer.adoc[]
+include::./traefic.adoc[]
 
