@@ -1,10 +1,11 @@
-[frame=none, grid=none]
+
 |===
 |Consul | Traefik | ReadMe
+[options="frame=none, grid=none"]
 
-|include::partial$consul.adoc[]
-|include::partial$schaefer.adoc[]
-|include::partial$traefic.adoc[]
+|include::consul.adoc[]
+|include::schaefer.adoc[]
+|include::traefic.adoc[]
 
 |===
 
