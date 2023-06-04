@@ -3,7 +3,7 @@
 |Consul | Traefik | ReadMe
 [options="frame=none, grid=none"]
 
-|include::consul.adoc[]
+|include::ROOT:partial$consul.adoc[]
 |include::schaefer.adoc[]
 |include::traefic.adoc[]
 
