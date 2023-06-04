@@ -1,4 +1,14 @@
-include::partial$consul.adoc[]
-include::partial$schaefer.adoc[]
-include::partial$traefic.adoc[]
+[frame=none, grid=none]
+|===
+|Consul | Traefik | ReadMe
+
+|include::partial$consul.adoc[]
+|include::partial$schaefer.adoc[]
+|include::partial$traefic.adoc[]
+
+|===
+
+
+
+
 
