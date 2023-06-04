@@ -3,7 +3,7 @@
 |===
 |Consul | Traefik | ReadMe
 |include:../partials/consul.adoc[]
-|include:::ROOT:schaefer.adoc[]
+|include::ROOT:schaefer.adoc[]
 |include:ROOT:traefic.adoc[]
 
 |===
