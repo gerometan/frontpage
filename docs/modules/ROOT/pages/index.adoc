@@ -9,6 +9,10 @@
 |===
 
 
+include::partial$consul.adoc[]
+include::partial$schaefer.adoc[]
+include::partial$traefic.adoc[]
+
 
 
 
