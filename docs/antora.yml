@@ -1,5 +1,5 @@
 name: FrontPage
-title: Front Page
+title: Module Contents
 version: 0.1.0
 start_page: index.adoc
 asciidoc:
