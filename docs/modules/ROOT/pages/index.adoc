@@ -2,7 +2,7 @@
 [frame=none, grid=none]
 |===
 |Consul | Traefik | ReadMe
-|include::../partials/consul.adoc[]
+|include:../partials/consul.adoc[]
 |include::schaefer.adoc[]
 |include::traefic.adoc[]
 
