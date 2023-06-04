@@ -1,6 +1,6 @@
 [%unstyled]
 |===
-|image:ROOT:ssi-schaefer.svg[Schaefer]
+|image:ROOT:ssi-schaefer.svg[alt=Schaefer Read Me,width=640,height=480]
 |xref:howto:howto.adoc[ReadMe] 
 |About
 

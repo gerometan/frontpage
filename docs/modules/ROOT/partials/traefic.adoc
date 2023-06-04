@@ -1,6 +1,6 @@
 [%unstyled]
 |===
-|image:ROOT:traefik-proxy-logo.svg[Carbonara]
+|image:ROOT:traefik-proxy-logo.svg[alt=Traefik Proxy Server,width=640,height=480]
 |Proxy Server Application
 |Install
 |About

@@ -1,2 +1,2 @@
-* xref:ModuleB::index.adoc[]
-* xref:ModuleA::example.adoc[]
+* xref:ProxyServerAppLauncher::index.adoc[]
+* xref:ProxyServerApp::index.adoc[]

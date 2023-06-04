@@ -1,6 +1,6 @@
 [%unstyled]
 |===
-|image:ROOT:consul.svg[Carbonara]
+|image:ROOT:consul.svg[alt=Service Registry,width=640,height=480]
 
 |Service Registry Application
 |Install
