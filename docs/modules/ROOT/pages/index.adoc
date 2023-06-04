@@ -2,9 +2,14 @@
 [frame=none, grid=none]
 |===
 |Consul | Traefik | ReadMe
+
 |include:../partials/consul.adoc[]
 |include::ROOT:schaefer.adoc[]
-|include:ROOT:traefic.adoc[]
+| include::partial$consul.adoc[]
+
+|include:../partials/consul.adoc[]
+|include::ROOT:schaefer.adoc[]
+| include::partial$consul.adoc[]
 
 |===
 
