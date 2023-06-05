@@ -21,7 +21,7 @@ include::partial$traefic.adoc[]
 [frame=none, grid=none]
 |===
 |Consul | Traefik | ReadMe
-||===|image:ROOT:consul.svg[alt=Service Registry,width=160,height=120]|Service Registry Application|Install|About|===
+||image:ROOT:consul.svg[alt=Service Registry,width=160,height=120]|Service Registry Application|Install|About
 |
 |===
 |image:ROOT:ssi-schaefer.svg[alt=Schaefer Read Me,width=160,height=120]
