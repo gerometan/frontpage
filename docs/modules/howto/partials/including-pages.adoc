@@ -1,0 +1,18 @@
+=== Guidlines in Adding Pages in a Module
+
+* adoc pages must be saved in /modules/<module name>/pages or subdirectories
+* inclusion of module version in a page is discouraged, and always the latest version must be used
+
+Example in Referencing another Page
+
+[source,yaml]
+----
+'*include::<module name>:<adoc filename>.adoc[<optional text>]*'
+----
+
+
+
+
+
+
+

@@ -1,4 +1,8 @@
 include::partial$level-3.adoc[]
 include::partial$module-site-keys.adoc[]
 include::partial$playbook-site-keys.adoc[]
+include::partial$including-pages.adoc[]
+include::partial$including-images.adoc[]
+
+
 
