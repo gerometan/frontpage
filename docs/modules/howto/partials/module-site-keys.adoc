@@ -1,5 +1,5 @@
 === Module Keys
-Listed are the keys that should be included in an Antora module playbook.
+Listed are the keys that should be included in an Antora module.
 Note: It is recommended to name it as "antora.yml" and be placed in \root\doc directory
 
 |===
