@@ -8,8 +8,8 @@ asciidoc:
     table-caption: true
 nav:
   - text: Home
-    url: ProxyServerAppLauncher::index.adoc
+    url: ProxyServerAppLauncher:index.adoc
     icon: home
   - text: About
-    url: ProxyServerApp::index.adoc
+    url: ProxyServerApp:index.adoc
     icon: info-circle
