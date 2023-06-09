@@ -1,2 +1,2 @@
-* xref:ProxyServerAppLauncher::index.adoc#[home]
-* xref:ProxyServerApp::index.adoc#[consul]
+* xref:ProxyServerAppLauncher::index.adoc[]
+* xref:ProxyServerApp::index.adoc[]
