@@ -8,7 +8,7 @@ asciidoc:
     table-caption: true
 nav:
   - text: Home
-    url: ProxyServerAppLauncher:index.adoc
+    url: https://github.com/gerometan/5_16_traefik_latest/blob/main/app-proxy/launcher/doc/modules/ROOT/pages/index.adoc
     icon: home
   - text: About
     url: ProxyServerApp:index.adoc
