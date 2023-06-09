@@ -1,6 +1,6 @@
 [%unstyled]
 |===
-|image:ROOT:traefik-proxy-logo.svg[alt=Traefik Proxy Server,width=160,height=120]
+|
 |Proxy Server Application
 |xref:ProxyServerAppLauncher::index.adoc[Deployment Documentation]
 |xref:ProxyServerApp::index.adoc[Conceptual Documentation]
