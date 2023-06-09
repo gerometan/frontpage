@@ -7,4 +7,9 @@ asciidoc:
     source-language: asciidoc@
     table-caption: true
 nav:
-- modules/ROOT/nav.adoc
+  - text: Home
+    url: ProxyServerAppLauncher::index.adoc
+    icon: home
+  - text: About
+    url: ProxyServerApp::index.adoc
+    icon: info-circle
