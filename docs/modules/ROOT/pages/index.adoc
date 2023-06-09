@@ -1,12 +1,3 @@
-
-<div class="card-container">
-  <div class="card">
-    include::partial$consul.adoc[]
-  </div>
-  <div class="card">
-    include::partial$schaefer.adoc[]
-  </div>
-  <div class="card">
-    include::partial$traefic.adoc[]
-  </div>
-</div>
+++++
+include::partial$card-container.html[]
+++++
