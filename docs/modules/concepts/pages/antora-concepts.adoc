@@ -1,16 +1,19 @@
 === Antora General Concepts
 
 ==== Playbook
- The xref:howto:playbook-site-keys.adoc[playbook] is the central configuration file for an Antora project. It defines the structure, sources, and configuration of your documentation. It specifies the locations of the documentation sources, the layout of the site, and the options for generating the output.
+ The xref:howto:playbook-site-keys.adoc[playbook] is the central configuration file for an Antora project. It defines the structure, sources, and configuration of your documentation. 
+ It specifies the locations of the documentation sources, the layout of the site, and the options for generating the output.
 
  ==== Site
- A site in Antora represents the generated documentation website. It consists of pages, navigation menus, and other assets. Antora takes the input from your documentation sources and transforms it into a static site that can be deployed to a web server.
-
+ A site in Antora represents the generated documentation website. It consists of pages, navigation menus, and other assets. 
+ Antora takes the input from your documentation sources and transforms it into a static site that can be deployed to a web server.
+ 
 ==== Component
-A component is a self-contained unit of documentation in Antora. It represents a collection of related documents, such as a guide, a reference manual, or a set of API docs. Components are organized into a hierarchy and can be reused across multiple documentation projects.
+A component is a self-contained unit of documentation in Antora. It represents a collection of related documents, such as a guide, a reference manual, or a set of API docs. 
+Components are organized into a hierarchy and can be reused across multiple documentation projects.
 
 ==== Module
-A xref:howto:module-site-keys.adoc[module] is a collection of related components in Antora. It allows you to group components together based on their common purpose or theme. For example, you could have a module for user guides, another for API documentation, and so on.
+A <<howto/partials/module-site-keys.adoc#>> is a collection of related components in Antora. It allows you to group components together based on their common purpose or theme. For example, you could have a module for user guides, another for API documentation, and so on.
 
 
 
