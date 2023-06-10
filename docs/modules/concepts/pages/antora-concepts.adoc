@@ -1,7 +1,7 @@
 === Antora General Concepts
 
 ==== Playbook
- The  xref:FrontPage:howto:howto.adoc[playbook] is the central configuration file for an Antora project. It defines the structure, sources, and configuration of your documentation. 
+ The  xref:howto.adoc[playbook] is the central configuration file for an Antora project. It defines the structure, sources, and configuration of your documentation. 
  It specifies the locations of the documentation sources, the layout of the site, and the options for generating the output.
 
  ==== Site
