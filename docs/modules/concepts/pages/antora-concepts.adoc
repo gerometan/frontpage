@@ -1,12 +1,12 @@
 === Antora General Concepts
 
 ==== Playbook
- The  is the central configuration file for an Antora project. It defines the structure, sources, and configuration of your documentation. 
- It specifies the locations of the documentation sources, the layout of the site, and the options for generating the output.
+The xref:howto.adoc[playbook]  is the central configuration file for an Antora project. It defines the structure, sources, and configuration of your documentation. 
+It specifies the locations of the documentation sources, the layout of the site, and the options for generating the output.
 
- ==== Site
- A site in Antora represents the generated documentation website. It consists of pages, navigation menus, and other assets. 
- Antora takes the input from your documentation sources and transforms it into a static site that can be deployed to a web server.
+==== Site
+A site in Antora represents the generated documentation website. It consists of pages, navigation menus, and other assets. 
+Antora takes the input from your documentation sources and transforms it into a static site that can be deployed to a web server.
  
 ==== Component
 A component is a self-contained unit of documentation in Antora. It represents a collection of related documents, such as a guide, a reference manual, or a set of API docs. 
