@@ -1,3 +1,3 @@
-* xref:antora-concepts.adoc[]
+* xref:concepts:antora-concepts.adoc[]
 * xref:ProxyServerAppLauncher::index.adoc[]
 * xref:ProxyServerApp::index.adoc[]
