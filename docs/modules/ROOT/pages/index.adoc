@@ -1,5 +1,5 @@
-= This is Sample
+
 
 ++++
-include::partial$card-container.html[]
+include::partial$frontpage.html[]
 ++++
