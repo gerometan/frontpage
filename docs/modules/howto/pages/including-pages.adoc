@@ -5,9 +5,9 @@
 
 Example in Referencing another Page
 
-[source,yaml]
+[source]
 ----
-'*include::<module name>:<adoc filename>.adoc[<optional text>]*'
+'include::<module name>:<adoc filename>.adoc[<optional text>]'
 ----
 
 

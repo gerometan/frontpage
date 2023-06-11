@@ -1,3 +1,5 @@
 * xref:concepts:antora-concepts.adoc[Antora General Concepts]
+** xref:howto:navigation.adoc[Navigation]
+** xref:howto:module-site-keys.adoc[Module]
 * xref:ProxyServerAppLauncher::index.adoc[]
 * xref:ProxyServerApp::index.adoc[]
