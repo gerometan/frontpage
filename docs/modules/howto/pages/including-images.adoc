@@ -1,13 +1,13 @@
 === Guidlines in Adding Images in a Module
 
 * images must be saved in /modules/<module name>/images or its subdirectories
-* inclusion of module version in a page is discouraged, and always the latest version must be used
+* inclusion of module version is highly advice, to avoid runtime errors
 
 Example in Referencing an Image to a Page
 
 [source,yaml]
 ----
-'image:<module name>:<filename>[<optional text>]*'
+'image:<version>@<module name>:<filename>[<optional text>]*'
 ----
 
 
