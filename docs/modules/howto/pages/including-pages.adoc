@@ -1,9 +1,9 @@
-=== Guidlines in Adding Pages in a Module
+== Guidlines in Adding Pages in a Module
 
 * adoc pages must be saved in /modules/<module name>/pages or subdirectories
-* inclusion of module version in a page is discouraged, and always the latest version must be used
+* inclusion of module version in a page is highly advised to avoid runtime errors
 
-Example in Referencing another Page
+=== Example in Referencing another Page
 
 [source]
 ----

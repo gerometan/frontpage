@@ -1,8 +1,8 @@
-=== Navigation / Table of Contents
+== Navigation / Table of Contents
 
 List of from top to 3rd level content of the navigation adoc.
 
-==== File structure
+=== File structure
 
 It is recommended that the navigation files should be:
 
@@ -10,7 +10,7 @@ It is recommended that the navigation files should be:
 * it is optional on other directory
 * must have the filename 'nav.adoc'
 
-==== Levels
+=== Levels
 Levels in the adoc structure is signified by '*'
 
 [source,yaml]

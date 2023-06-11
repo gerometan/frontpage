@@ -1,4 +1,4 @@
-=== Playbook Keys
+== Playbook Keys
 Listed are the keys that should be included in an Antora playbook.
 Note: It is recommended to name it as "antora-playbook.yml" to and be placed in \root\doc directory
 
@@ -16,7 +16,7 @@ Note: It is recommended to name it as "antora-playbook.yml" to and be placed in 
 |antora.extensions | Imported Antora plugins | no
 |===
 
-==== Configuration Example
+=== Configuration Example
 [source,yaml]
 ----
 site:
