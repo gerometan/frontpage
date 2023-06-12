@@ -4,5 +4,5 @@ include::partial$frontpage.html[]
 
 [plantuml, bar, svg]
 ....
-include::bar.puml[]
+include::partial$bar.puml[]
 ....
