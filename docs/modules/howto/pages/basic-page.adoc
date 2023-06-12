@@ -1,6 +1,6 @@
 == Documentation Parts and Description
 
-image:ROOT:frontpage.jpg[Wamas Documentation Parts]
+image:ROOT:frontpage.png[Wamas Documentation Parts]
 
 +Header - Upper part that may contain titles, version numbers of the document
 +Search Text - Lists and Filters the documents containing based on the input
