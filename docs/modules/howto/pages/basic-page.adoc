@@ -1,4 +1,4 @@
-== Documentation Parts and Description
+== Documentation Parts
 
 image:ROOT:frontpage.png[Wamas Documentation Parts]
 
