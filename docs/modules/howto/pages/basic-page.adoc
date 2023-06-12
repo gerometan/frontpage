@@ -1,4 +1,5 @@
-== Documentation Parts
+== Documentation Parts and Description
+
 image:ROOT:frontpage.jpg[Wamas Documentation Parts]
 
 +Header - Upper part that may contain titles, version numbers of the document
@@ -7,5 +8,3 @@ image:ROOT:frontpage.jpg[Wamas Documentation Parts]
 +Breadcrumbs - Navigation tool to provide the depth/hierarchy of the selected document
 +Module Cards - The frontpage describing the content and links of each module
 +Module Navigation - Provides the module title and its available versions
-
-
