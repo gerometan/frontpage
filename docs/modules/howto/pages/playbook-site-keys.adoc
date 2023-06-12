@@ -24,18 +24,18 @@ site:
   start_page: FrontPage::index.adoc
 content:
   sources:
-  - url: https://github.com/gerometan/frontpage.git
+  - url: https://github.com/frontpage/frontpage.git
     branches: [main]
     start_path: docs    
-  - url: https://github.com/gerometan/5_16_traefik_latest.git
+  - url: https://github.com/5_16_traefik/5_16_traefik_latest.git
     branches: [main]  
     start_path: app-proxy/launcher/doc  
-  - url: https://github.com/gerometan/5_16_traefik_latest.git
+  - url: https://github.com/5_16_traefik/5_16_traefik_latest.git
     branches: [main]  
     start_path: app-proxy/server-app/doc   
 ui:
   bundle:
-    url: https://github.com/gerometan/antora-ui-bundle/raw/main/build/ui-bundle.zip
+    url: https://github.com/ui-bundle/antora-ui-bundle/raw/main/build/ui-bundle.zip
     snapshot: true
 antora:
   extensions:

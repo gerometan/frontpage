@@ -1,5 +1,6 @@
 * xref:concepts:antora-concepts.adoc[Documentation Concepts and Guidelines]
 ** xref:howto:navigation.adoc[Navigation]
 ** xref:howto:module-site-keys.adoc[Module]
+** xref:howto:playbook-site-keys.adoc[Playbook]
 * xref:ProxyServerAppLauncher::index.adoc[]
 * xref:ProxyServerApp::index.adoc[]
