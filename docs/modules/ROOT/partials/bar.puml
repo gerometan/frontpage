@@ -1,3 +1,4 @@
-@startuml
+@startuml HelloWorld
+skinparam Style strictuml
 Alice -> Bob: test
 @enduml
