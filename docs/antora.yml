@@ -6,11 +6,8 @@ asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: true
-nav:
-- modules/ROOT/nav.adoc
-
-asciidoc:
-  attributes:
     :plantuml-server-url: http://www.plantuml.com/plantuml
   extensions:
-  - asciidoctor-plantuml
+  - asciidoctor-plantuml    
+nav:
+- modules/ROOT/nav.adoc
