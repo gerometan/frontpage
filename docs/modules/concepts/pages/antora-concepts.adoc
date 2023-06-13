@@ -16,13 +16,13 @@ Components are organized into a hierarchy and can be reused across multiple docu
 A xref:howto:module-site-keys.adoc[module] is a collection of related components in Antora. It allows you to group components together based on their common purpose or theme. For example, you could have a module for user guides, another for API documentation, and so on.
 
 ==== Page
-A page is a single document within a component. It can be written in AsciiDoc and may include sections, headings, text, images, code samples, and other elements. Pages are the building blocks of your documentation. Currently Wamas NG maintains a xref:howto:basic-page.adoc[standard page]  that is based on the gui bundle.
+A page is a single document within a component. It can be written in AsciiDoc and may include sections, headings, text, images, code samples, and other elements. xref:howto:including-pages.adoc[Pages] are the building blocks of your documentation. Currently Wamas NG maintains a xref:howto:basic-page.adoc[standard page] that is based on the gui bundle.
 
 ==== UI Theme
 Antora provides a theming system that allows you to customize the appearance of your documentation website. You can choose or create a UI theme to define the layout, styling, and behavior of the site. Themes are implemented using Handlebars templates and Sass stylesheets.
 
 ==== Versioning
-Antora supports versioning of documentation to manage multiple versions of your content. You can specify different versions for components, allowing users to switch between versions or access version-specific content.
+Antora supports xref:howto:basic-versioning.adoc[versioning] of documentation to manage multiple versions of your content. You can specify different versions for components, allowing users to switch between versions or access version-specific content.
 
 ==== Site Navigation
 Antora automatically generates navigation menus based on the structure of your documentation. It creates a xref:howto:navigation.adoc[table of contents], breadcrumbs, and other navigation elements to help users navigate your site efficiently.

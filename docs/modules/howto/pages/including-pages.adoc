@@ -1,3 +1,7 @@
+== Pages
+
+Are AsciiDoc files that contain images, texts and links on a specific component.
+
 == Guidlines in Adding Pages in a Module
 
 * adoc pages must be saved in /modules/<module name>/pages or subdirectories
@@ -7,7 +11,7 @@
 
 [source]
 ----
-'include::<module name>:<adoc filename>.adoc[<optional text>]'
+'include::<version>@<module name>:<adoc filename>.adoc[<optional text>]'
 ----
 
 
