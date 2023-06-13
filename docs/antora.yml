@@ -6,7 +6,7 @@ asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: true
-    :plantuml-server-url: http://www.plantuml.com/plantuml
+    plantuml-server-url: http://www.plantuml.com/plantuml
   extensions:
   - asciidoctor-plantuml    
 nav:
