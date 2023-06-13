@@ -32,14 +32,3 @@ Antora supports cross-referencing within and between documents. You can referenc
 
 ==== Search
 Antora includes a search functionality that enables users to search for specific content within your documentation. It can be configured to use different search engines or plugins to provide powerful and accurate search results.
-
-
-
-
-
-
-
-
-
-
- 
