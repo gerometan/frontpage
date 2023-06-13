@@ -1,4 +1,6 @@
 @startuml HelloWorld
 skinparam Style strictuml
 Alice -> Bob: test
+Alice <- Bob: is It?
+Alice <- Sherry: I dont think so?
 @enduml
