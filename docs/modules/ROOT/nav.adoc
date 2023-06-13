@@ -3,5 +3,5 @@
 ** xref:howto:module-site-keys.adoc[Module]
 ** xref:howto:playbook-site-keys.adoc[Playbook]
 ** xref:howto:basic-page.adoc[Page]
-* xref:ProxyServerAppLauncher::index.adoc[]
-* xref:ProxyServerApp::index.adoc[]
+* xref:0.1.0@ProxyServerAppLauncher::index.adoc[]
+* xref:0.1.0@ProxyServerApp::index.adoc[]
