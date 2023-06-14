@@ -3,7 +3,7 @@ include::partial$frontpage.html[]
 ++++
 
 
-[plantuml, bar, svg]
+[plantuml, bar, png]
 ....
 include::partial$bar.puml[]
 ....
