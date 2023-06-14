@@ -41,3 +41,8 @@ antora:
   extensions:
   - require: '@antora/lunr-extension'
 ----
+
+[plantuml, bar, svg]
+....
+include::partial$statement.puml[]
+....
