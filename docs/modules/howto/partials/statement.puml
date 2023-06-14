@@ -1,4 +1,4 @@
-@startuml
+@startuml testTwo
 skinparam Style strictuml
 Alice -> Bob: I Am not sure
 Alice <- Bob: is It?
