@@ -1,5 +1,4 @@
 @startuml HelloWorld
-skinparam Style strictuml
 Alice -> Bob: I Am not sure
 Alice <- Bob: is It?
 @enduml
