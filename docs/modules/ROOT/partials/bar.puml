@@ -1,4 +1,4 @@
 @startuml
-Bob -> Alice : I am here
-Bob <- Alice : You are there
+Bob -> Alice : Why not
+Bob <- Alice : I love you
 @enduml
