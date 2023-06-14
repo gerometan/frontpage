@@ -1,0 +1,6 @@
+@startuml
+skinparam Style strictuml
+Alice -> Bob: I Am not sure
+Alice <- Bob: is It?
+Alice <- Sherry: I dont think so?
+@enduml
