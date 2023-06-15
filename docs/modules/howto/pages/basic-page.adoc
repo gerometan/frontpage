@@ -1,5 +1,7 @@
 === Documentation Parts
 
+:imagesdir: ../images
+
 image:frontpage.png[Wamas Documentation Parts]
 
 :sectnums:
