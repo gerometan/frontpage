@@ -1,3 +1,6 @@
+include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Adoc]
+
+
 ++++
 include::partial$frontpage.html[]
 ++++
