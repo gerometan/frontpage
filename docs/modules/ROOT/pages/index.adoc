@@ -5,15 +5,13 @@ include::partial$frontpage.html[]
 
 [cols="1,2a"]
 |===
-| 
-
-| Test here
-
-
+| ++++
+include::partial$frontpage.html[]
+++++ | ++++
+include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
+++++ 
 |===
 
-
-include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
 include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts Bdeploy]
 
 
