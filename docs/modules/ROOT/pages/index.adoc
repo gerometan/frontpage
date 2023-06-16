@@ -1,8 +1,4 @@
-
-
-
-
-
+include::0.1.0@ProxyServerApp:index.adoc[Proxy Server Concepts]
 
 ++++
 include::partial$frontpage.html[]
