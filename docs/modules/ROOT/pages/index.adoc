@@ -1,9 +1,11 @@
 
-[cols="1,2a"]
-|===
-| ++++
+++++
 include::partial$frontpage.html[]
 ++++ 
+
+[cols="1,2a"]
+|===
+| 
 
 | Test here
 
