@@ -5,7 +5,7 @@
 include::partial$frontpage.html[]
 ++++ 
 | ++++ 
-include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts] 
+include::ProxyServerApp:ROOT:frontpage.html[Proxy Server Concepts]
 ++++
 
 | Cell 1.1
