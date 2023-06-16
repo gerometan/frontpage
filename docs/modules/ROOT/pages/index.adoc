@@ -8,7 +8,7 @@ include::partial$frontpage.html[]
 | ++++
 include::partial$frontpage.html[]
 ++++ | ++++
-include::partial$firstpage.html[]
+include::partial$firstpage.adoc[]
 ++++ 
 |===
 
