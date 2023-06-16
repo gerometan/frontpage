@@ -1,1 +1,0 @@
-include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
