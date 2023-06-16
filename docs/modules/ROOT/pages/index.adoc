@@ -8,7 +8,7 @@ include::partial$frontpage.html[]
 | ++++
 include::partial$frontpage.html[]
 ++++ | ++++
-include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
+include::partial$firstpage.html[]
 ++++ 
 |===
 
