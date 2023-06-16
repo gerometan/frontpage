@@ -8,7 +8,7 @@ ifdef::ProxyServerApp[]
 include::ProxyServerApp:ROOT:card.adoc[Proxy Server Concepts]
 endif::[]
 |
-ifdef::ProxyServerAppLauncher[]
+ifdef::ProxyServerAppLauncher:ROOT:index.adoc[]
 include::ProxyServerAppLauncher:ROOT:index.adoc[Bdeploy Concepts]
 endif::[]
 |===
