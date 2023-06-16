@@ -5,7 +5,9 @@ include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts]
 include::partial$frontpage.html[]
 ++++
 
-
+|---
+| Table 1 | Table 2 | Table 3
+|---
 [plantuml, bar, png]
 ....
 include::partial$bar.puml[]
