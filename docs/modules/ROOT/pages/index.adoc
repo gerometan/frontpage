@@ -4,11 +4,11 @@
 | ++++
 include::partial$frontpage.html[]
 ++++ | 
-include::ProxyServerApp:ROOT:card.adoc.adoc[Proxy Server Concepts]
+include::ProxyServerApp:ROOT:card.adoc[Proxy Server Concepts]
 ++++
 
 | ++++
-include::ProxyServerAppLauncher:ROOT:card.adoc.adoc[Bdeploy Concepts]
+include::ProxyServerAppLauncher:ROOT:index.adoc[Bdeploy Concepts]
 ++++
 
 |===
