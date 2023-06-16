@@ -1,1 +1,1 @@
-include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Bdeploy]
+include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts Bdeploy]

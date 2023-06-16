@@ -12,7 +12,8 @@ include::partial$firstpage.adoc[]
 ++++ 
 |===
 
-include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts Bdeploy]
+include::partial$firstcard.adoc[]
+include::partial$secondcard.adoc[]
 
 
 
