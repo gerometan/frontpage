@@ -4,7 +4,7 @@
 | ++++
 include::partial$frontpage.html[]
 ++++ |
-ifdef::ProxyServerApp[]
+ifdef::ProxyServerApp:ROOT[]
 include::ProxyServerApp:ROOT:card.adoc[Proxy Server Concepts]
 endif::[]
 |
