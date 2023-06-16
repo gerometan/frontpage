@@ -1,7 +1,9 @@
 
 [cols="1,2a"]
 |===
-| include::partial$firstpage.adoc[Proxy Server Concepts] | include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts]
+| ++++
+include::partial$frontpage.html[]
+++++ | include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts]
 
 | Cell 1.1
 | Cell 1.2
@@ -20,9 +22,7 @@
 
 |===
 
-++++
-include::partial$frontpage.html[]
-++++
+
 
 
 
