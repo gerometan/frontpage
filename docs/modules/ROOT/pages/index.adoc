@@ -8,21 +8,6 @@ include::partial$frontpage.html[]
 include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
 ++++
 
-| Cell 1.1
-| Cell 1.2
-
-| Cell 2.1
-| Cell 2.2
-
-[cols="2,1"]
-!===
-! Col1 ! Col2
-
-! C11
-! C12
-
-!===
-
 |===
 
 
