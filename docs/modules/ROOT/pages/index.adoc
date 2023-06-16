@@ -4,14 +4,15 @@
 | ++++
 include::partial$frontpage.html[]
 ++++ 
-| ++++ 
-include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
-++++
+
+| Test here
+
 
 |===
 
 
-
+include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
+include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts Bdeploy]
 
 
 
