@@ -1,18 +1,30 @@
 
+[cols="1,2a"]
+|===
+| include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts] | include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts]
 
+| Cell 1.1
+| Cell 1.2
+
+| Cell 2.1
+| Cell 2.2
+
+[cols="2,1"]
+!===
+! Col1 ! Col2
+
+! C11
+! C12
+
+!===
+
+|===
 
 ++++
 include::partial$frontpage.html[]
 ++++
 
-|===
-|Column 1, header row |Column 2, header row |Column 3, header row
 
-| include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
-| include::ProxyServerAppLauncher:ROOT:index.adoc[Proxy Server Concepts]
-|Cell in column 3, row 2
-
-|===
 
 
 [plantuml, bar, png]
