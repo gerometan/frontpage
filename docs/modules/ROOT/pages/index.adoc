@@ -13,3 +13,7 @@ include::ProxyServerAppLauncher:ROOT:partial$card.html[Bdeploy Concepts]
 +++
 |===
 
+[plantuml, bar, svg]
+....
+include::partial$documentation-concept.puml[]
+....
