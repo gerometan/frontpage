@@ -4,11 +4,9 @@ include::partial$title.html[]
 
 [cols="3"]
 |===
-|
-++++
+| ++++
 include::partial$documentation.html[]
-++++ 
-| 
+++++ | 
 ++++
 include::ProxyServerApp:ROOT:card.adoc[Proxy Server Concepts]
 ++++ 
