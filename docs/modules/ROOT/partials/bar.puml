@@ -1,4 +1,5 @@
 @startuml testOne
 Bob -> Alice : fromBob
-Bob <- Alice : fromAlice
+Bob <- Alice : fromAlice it is
+
 @enduml
