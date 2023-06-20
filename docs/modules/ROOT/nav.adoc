@@ -1,5 +1,5 @@
-* xref:concepts:antora-benefits.adoc[Concepts and Guidelines]
-** xref:concepts:antora-concepts.adoc[Navigation]
+* xref:concepts:antora-benefits.adoc[Overview]
+** xref:concepts:antora-concepts.adoc[Concepts and Guidelines]
 ** xref:howto:navigation.adoc[Navigation]
 ** xref:howto:module-site-keys.adoc[Module]
 ** xref:howto:playbook-site-keys.adoc[Playbook]
