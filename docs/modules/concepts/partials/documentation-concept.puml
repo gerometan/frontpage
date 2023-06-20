@@ -1,0 +1,19 @@
+[plantuml, full, svg]
+....
+@startwbs
++ Playbook
+ + Modules
+  + Version
+  + Components
+   + Pages
+   + Navigations
+   + Cross-Referencing
+   + images
+ + UI Theme
+  + HandleBars
+  + CSS stylesheet
+  + images
+  + Pages
+ + Plugins
+@endwbs
+....

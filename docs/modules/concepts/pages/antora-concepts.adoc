@@ -1,5 +1,10 @@
 === Antora General Concepts
 
+[plantuml, bar, svg]
+....
+include::partial$documentation-concept.puml[]
+....
+
 ==== Playbook
 The xref:howto:playbook-site-keys.adoc[playbook]  is the central configuration file for an Antora project. It defines the structure, sources, and configuration of your documentation. 
 It specifies the locations of the documentation sources, the layout of the site, and the options for generating the output.
