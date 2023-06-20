@@ -6,10 +6,9 @@ include::partial$title.html[]
 |===
 | ++++
 include::partial$documentation.html[]
-++++ | 
-++++
-include::ProxyServerApp:ROOT:card.adoc[Proxy Server Concepts]
 ++++ 
+| 
+include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
 | 
 ++++
 include::ProxyServerAppLauncher:ROOT:index.adoc[Bdeploy Concepts]
