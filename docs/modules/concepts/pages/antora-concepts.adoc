@@ -33,7 +33,10 @@ Antora supports xref:howto:basic-versioning.adoc[versioning] of documentation to
 Antora automatically generates navigation menus based on the structure of your documentation. It creates a xref:howto:navigation.adoc[table of contents], breadcrumbs, and other navigation elements to help users navigate your site efficiently.
 
 ==== Cross-referencing
-Antora supports cross-referencing within and between documents. You can reference other pages or components using special syntax, such as links or partial includes. This allows you to create dynamic and interconnected documentation.
+Antora supports cross-referencing within and between documents. You can reference other pages or xref:howto:including-images.adoc[resources] using special syntax such as 'links' or 'partial includes'. This allows you to create dynamic and interconnected documentation.
 
-==== Search
+==== Search Plugin
 Antora includes a search functionality that enables users to search for specific content within your documentation. It can be configured to use different search engines or plugins to provide powerful and accurate search results.
+
+==== Diagram Generation Plugin
+An open-source project that provides a service for generating diagrams and visualizations from plain-text descriptions. It supports various diagram types, including UML, flowcharts, sequence diagrams, and more. Kroki allows you to include diagrams in your documentation without manually creating them using specialized software.
