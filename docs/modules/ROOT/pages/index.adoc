@@ -4,16 +4,13 @@ include::partial$title.html[]
 
 [cols="3"]
 |===
-| ++++
+| +++
 include::partial$documentation.html[]
-++++ 
-| 
++++ | +++
 include::ProxyServerApp:ROOT:index.adoc[Proxy Server Concepts]
-| 
-++++
++++ | +++
 include::ProxyServerAppLauncher:ROOT:index.adoc[Bdeploy Concepts]
-++++
-| 
++++
 |===
 
 
