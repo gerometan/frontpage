@@ -2,7 +2,7 @@
 include::partial$title.html[]
 ++++
 
-[cols="3"]
+[cols="3", frame=none]
 |===
 | +++
 include::partial$card.html[]
