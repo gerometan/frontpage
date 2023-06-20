@@ -1,1 +1,0 @@
-include::ProxyServerAppLauncher:ROOT:index.adoc[]
