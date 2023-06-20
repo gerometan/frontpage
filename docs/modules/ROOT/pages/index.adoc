@@ -5,15 +5,18 @@ include::partial$title.html[]
 [cols="3"]
 |===
 |
-+++
-include::partial$documentation-guidelines.html[]
-+++ | 
-+++
+++++
+include::partial$documentation.html[]
+++++ 
+| 
+++++
 include::ProxyServerApp:ROOT:card.adoc[Proxy Server Concepts]
-+++ | 
+++++ 
+| 
 ++++
 include::ProxyServerAppLauncher:ROOT:index.adoc[Bdeploy Concepts]
 ++++
+| 
 |===
 
 
